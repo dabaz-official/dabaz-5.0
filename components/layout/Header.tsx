@@ -3,7 +3,7 @@ import Dropdown from "./Dropdown"
 
 export default function Header() {
   return (
-    <header className="relative bg-white/70 backdrop-blur">
+    <header className="bg-white/70 backdrop-blur sticky top-0 z-50">
       <div className="mx-auto max-w-full px-8 sm:px-24">
         <div className="flex items-center justify-between py-4 md:justify-start md:space-x-10">
           <div className="flex justify-start lg:w-0 lg:flex-1">
