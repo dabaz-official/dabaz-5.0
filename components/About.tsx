@@ -28,7 +28,7 @@ export default function AboutSection() {
         <div className="text-base max-w-prose mx-auto lg:max-w-none">
           <p className="text-lg text-gray-500">
             I usually call myself as a digital craftsman. I&apos;m an ethical hacker, artist, indie developer, and designer. If you are interested in these jobs, feel free to{" "}
-            <a href="/contact" className="underline underline-offset-2 hover:text-gray-900 transition duration-200">
+            <a href="#contact" className="underline underline-offset-2 hover:text-gray-900 transition duration-200">
               contact me
             </a>
             .
